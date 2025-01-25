@@ -93,5 +93,3 @@ For cloud deployment (Heroku, AWS, etc.), follow their documentation for setting
 This project is licensed under the MIT License.
 
 ---
-
-Let me know if you need anything adjusted in the README!
